@@ -246,7 +246,7 @@ export const projects = [
   {
     "id": 0,
     "title": "Gulak",
-    "date": "Dec 2023",
+    "date": "Dec 2024",
     "description": "Streamlined financial tracking and expense management by developing a user-friendly interface, improving budgeting efficiency and user satisfaction by 20%. Implemented smart receipt scanning and multi-account support, reducing the time spent on manual expense tracking by 30%. Optimized user authentication with secure login via Clerk, ensuring a smooth and safe onboarding experience for all users.",
     "image": "k5.png",
     "tags": [
@@ -261,6 +261,23 @@ export const projects = [
     "category": "web app",
     "github": "https://github.com/kabirgoyal26/G-U-L-A-K"
   },
+
+  {
+  "id": 1,
+  "title": "Energy 3.0",
+  "date": "March 2025",
+  "description": "Optimized energy usage in Thapar University’s CSED building using OpenCV for map detection and occupancy sensors for real-time monitoring. Reduced energy waste by adjusting power usage based on occupancy and sensor data. Completed under the mentorship of Dr. Anil, focusing on energy efficiency and smart building technologies. Patent application submitted for the energy optimization system.",
+  "image": "",
+  "tags": [
+    "OpenCV",
+    "Occupancy Sensors",
+    "Power Meter",
+    "Node.js",
+    "MongoDB"
+  ],
+  "category": "web app",
+  "github": "-"
+}
   
 ];
 
