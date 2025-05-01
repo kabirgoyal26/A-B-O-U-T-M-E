@@ -267,7 +267,7 @@ export const projects = [
     "title": "Energy 3.0",
     "date": "March 2025",
     "description": "Optimized energy usage in Thapar University’s CSED building using OpenCV for map detection and occupancy sensors for real-time monitoring. Reduced energy waste by adjusting power usage based on occupancy and sensor data. Completed under the mentorship of Dr. Anil, focusing on energy efficiency and smart building technologies. Patent application submitted for the energy optimization system.",
-    "image": "",
+    "image": "k7.png",
     "tags": [
       "OpenCV",
       "Occupancy Sensors",
@@ -284,7 +284,7 @@ export const projects = [
     "title": "All is Well",
     "date": "June 2025",
     "description": "An AI-powered platform to help college students prepare for interviews across all industries. The platform assists in building resumes, preparing cover letters, and conducting interview preparation with industry-specific insights. Optimized for a seamless user experience, it simplifies the interview preparation process, ensuring students are well-prepared. The platform also leverages advanced tools like SHDCNUI, INNGEST, and NEON for enhanced performance.",
-    "image": "",
+    "image": "k6.png",
     "tags": [
       "SHDCNUI",
       "INNGEST",
