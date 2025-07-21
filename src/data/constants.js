@@ -138,9 +138,23 @@ export const skills = [
 ];
 
 export const experiences = [
-  
   {
     "id": 0,
+    "img": "", 
+    "role": "IT Department Intern",
+    "company": "Bharti Airtel Ltd., Mohali, Punjab",
+    "date": "June 2024 – July 2024",
+    "desc": "Developed Python scripts to ingest, clean, and perform analytical operations on large-scale usage data. Utilized Power BI to design interactive dashboards, enabling visualization of trends and actionable insights. Improved internal reporting workflows by automating repetitive data transformation processes. Submitted a final technical report outlining automation strategies and data-driven recommendations.",
+    "skills": [
+      "Python",
+      "Data Cleaning",
+      "Power BI",
+      "Automation",
+      "Data Analysis"
+    ]
+  },
+  {
+    "id": 1,
     "img": "/k1.png",
     "role": "Technical Coordinator",
     "company": "Urja, Thapar University Patiala",
@@ -155,7 +169,7 @@ export const experiences = [
     ]
   },
   {
-    "id": 1,
+    "id": 2,
     "img": "k2.png", 
     "role": "Executive Committee Member",
     "company": "Thapar Fitness Club",
@@ -168,8 +182,6 @@ export const experiences = [
       "Communication"
     ]
   }
-
-
 ];
 
 export const education = [
