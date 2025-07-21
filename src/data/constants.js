@@ -7,7 +7,7 @@ export const Bio = {
 "I'm a passionate and versatile developer with a love for problem-solving. As a two-time Chess State Champion and avid Badminton player, I thrive on strategy, focus, and teamwork—qualities I bring to my development work. At Thapar, I’m eager to tackle new challenges, learn continuously, and create impactful solutions with a growth mindset and positive attitude.",
   github: "https://github.com/kabirgoyal26",
   resume:
-    "https://drive.google.com/file/d/1TGIwyVtcl8UsCEkXrmD1cSpr-1Or5AvR/view?usp=sharing",
+    "https:https://drive.google.com/file/d/16R_DTIPa282duF6M-PjuRsDIsY-DeOau/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/kabir-goyal-5986b125b/",
   
 };
