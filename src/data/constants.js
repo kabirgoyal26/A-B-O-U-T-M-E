@@ -138,6 +138,7 @@ export const skills = [
 ];
 
 export const experiences = [
+  
   {
     "id": 0,
     "img": "/k1.png",
@@ -174,24 +175,20 @@ export const experiences = [
 export const education = [
   {
     "id": 1,
-    "img": "k4.png",
+    "img": "",
     "school": "Thapar University, Patiala",
-    "grade": "8.57 CGPA",
-    "date": "2024 – 2025 (Odd Sem)",
-
-"desc": "Completed my odd semester in the 2022-2023 academic year with strong performance in core subjects, including Design and Analysis of Algorithms (B), Cloud, Microservices and Application (B), Mini Project (A-), Behavioural Economics (A-), Business Communication & Value Science-II (A-), Business Strategy (A-), Fundamentals of Management (A-), and Compiler Design (A).",
-
+    "grade": "8.68 CGPA",
+    "date": "2024 – 2025 (Even Sem)",
+    "desc": "Completed my even semester in the 2024–2025 academic year with strong performance in core subjects, including Modern Web Applications (B), Artificial Intelligence (B), Computer Networks (A-), Business Communication & Value Science-IV (A), Financial & Cost Accounting (A), Advance Finance (A), and Information Security (A).",
     "degree": "B.Tech, Computer Science and Engineering"
   },
   {
     "id": 2,
     "img": "k4.png",
     "school": "Thapar University, Patiala",
-    "grade": "8.50 CGPA",
-    "date": "2023 – 2024 (Even Sem)",
-
-"desc": "Completed my odd semester in the 2022-2023 academic year with strong performance in core subjects, including Design Thinking (B-), Introduction to Innovation, IP Management & Entrepreneurship (B), Software Design with UML (B), Operations Research (A-), Database Management Systems (A-), Marketing Research & Marketing Management (A-), and Operating Systems (A-).",
-
+    "grade": "8.57 CGPA",
+    "date": "2024 – 2025 (Odd Sem)",
+    "desc": "Completed my odd semester in the 2022-2023 academic year with strong performance in core subjects, including Design and Analysis of Algorithms (B), Cloud, Microservices and Application (B), Mini Project (A-), Behavioural Economics (A-), Business Communication & Value Science-II (A-), Business Strategy (A-), Fundamentals of Management (A-), and Compiler Design (A).",
     "degree": "B.Tech, Computer Science and Engineering"
   },
   {
@@ -199,38 +196,39 @@ export const education = [
     "img": "k4.png",
     "school": "Thapar University, Patiala",
     "grade": "8.50 CGPA",
-    "date": "2023 – 2024 (Odd Sem)",
-
-"desc": "Completed my odd semester in the 2022-2023 academic year with strong performance in core subjects, including Computer Organization & Architecture (B), Software Engineering (B), Object-Oriented Programming (A-), Formal Language and Automata Theory (A-), Computational Statistics (A-).",
-
+    "date": "2023 – 2024 (Even Sem)",
+    "desc": "Completed my even semester in the 2023-2024 academic year with strong performance in core subjects, including Design Thinking (B-), Introduction to Innovation, IP Management & Entrepreneurship (B), Software Design with UML (B), Operations Research (A-), Database Management Systems (A-), Marketing Research & Marketing Management (A-), and Operating Systems (A-).",
     "degree": "B.Tech, Computer Science and Engineering"
   },
   {
     "id": 4,
     "img": "k4.png",
     "school": "Thapar University, Patiala",
-    "grade": "8.56 CGPA",
-    "date": "2022 – 2023 (Even Sem)",
-
-"desc": "Completed my odd semester in the 2022-2023 academic year with strong performance in core subjects, including Business Communication & Value Science-I (B), Fundamentals of Physics (B), Fundamentals of Computer Science (A-), Probability & Statistics (A-), Principles of Electrical Engineering (A-), Discrete Mathematics (A), Environmental Studies (B), Linear Algebra (B), Fundamentals of Economics (B), Statistical Modeling (B), Principles of Electronics (B), Business Communication & Value Science-II (A-), and Data Structures and Algorithms (A-).",
-
+    "grade": "8.50 CGPA",
+    "date": "2023 – 2024 (Odd Sem)",
+    "desc": "Completed my odd semester in the 2023-2024 academic year with strong performance in core subjects, including Computer Organization & Architecture (B), Software Engineering (B), Object-Oriented Programming (A-), Formal Language and Automata Theory (A-), Computational Statistics (A-).",
     "degree": "B.Tech, Computer Science and Engineering"
   },
   {
     "id": 5,
     "img": "k4.png",
     "school": "Thapar University, Patiala",
-    "grade": "8.85 CGPA",
-    "date": "2022 – 2023 (Odd Sem)",
-"desc": "Completed my odd semester in the 2022-2023 academic year with strong performance in core subjects, including Business Communication & Value Science-I (B), Fundamentals of Physics (B), Fundamentals of Computer Science (A-), Probability & Statistics (A-), Principles of Electrical Engineering (A-), and Discrete Mathematics (A).",
-
-
+    "grade": "8.56 CGPA",
+    "date": "2022 – 2023 (Even Sem)",
+    "desc": "Completed my even semester in the 2022-2023 academic year with strong performance in core subjects, including Business Communication & Value Science-I (B), Fundamentals of Physics (B), Fundamentals of Computer Science (A-), Probability & Statistics (A-), Principles of Electrical Engineering (A-), Discrete Mathematics (A), Environmental Studies (B), Linear Algebra (B), Fundamentals of Economics (B), Statistical Modeling (B), Principles of Electronics (B), Business Communication & Value Science-II (A-), and Data Structures and Algorithms (A-).",
     "degree": "B.Tech, Computer Science and Engineering"
   },
-  
-  
   {
     "id": 6,
+    "img": "k4.png",
+    "school": "Thapar University, Patiala",
+    "grade": "8.85 CGPA",
+    "date": "2022 – 2023 (Odd Sem)",
+    "desc": "Completed my odd semester in the 2022-2023 academic year with strong performance in core subjects, including Business Communication & Value Science-I (B), Fundamentals of Physics (B), Fundamentals of Computer Science (A-), Probability & Statistics (A-), Principles of Electrical Engineering (A-), and Discrete Mathematics (A).",
+    "degree": "B.Tech, Computer Science and Engineering"
+  },
+  {
+    "id": 7,
     "img": "k3.png",
     "school": "Saint Fateh Singh Convent School, Bathinda, Punjab",
     "date": "April 2020 – July 2022",
@@ -238,8 +236,6 @@ export const education = [
     "desc": "Completed my high school education at Saint Fateh Singh Convent School, Bathinda, Punjab, under the Central Board of Secondary Education. I focused on a broad academic curriculum, securing an aggregate of 86.2%.",
     "degree": "CBSE, Senior Secondary"
   }
-  
-  
 ];
 
 export const projects = [
