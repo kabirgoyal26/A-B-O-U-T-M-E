@@ -140,7 +140,7 @@ export const skills = [
 export const experiences = [
   {
     "id": 0,
-    "img": "", 
+    "img": "m2.png", 
     "role": "IT Department Intern",
     "company": "Bharti Airtel Ltd., Mohali, Punjab",
     "date": "June 2024 – July 2024",
@@ -187,7 +187,7 @@ export const experiences = [
 export const education = [
   {
     "id": 1,
-    "img": "",
+    "img": "k4.png",
     "school": "Thapar University, Patiala",
     "grade": "8.68 CGPA",
     "date": "2024 – 2025 (Even Sem)",
