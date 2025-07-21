@@ -143,7 +143,7 @@ export const experiences = [
     "img": "m2.png", 
     "role": "IT Department Intern",
     "company": "Bharti Airtel Ltd., Mohali, Punjab",
-    "date": "June 2024 – July 2024",
+    "date": "June 2025 – July 2025",
     "desc": "Developed Python scripts to ingest, clean, and perform analytical operations on large-scale usage data. Utilized Power BI to design interactive dashboards, enabling visualization of trends and actionable insights. Improved internal reporting workflows by automating repetitive data transformation processes. Submitted a final technical report outlining automation strategies and data-driven recommendations.",
     "skills": [
       "Python",
